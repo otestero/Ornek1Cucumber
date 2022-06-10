@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.015">
+    <testcase classname="Unknown" name="_2" time="4.774">
+        <system-out><![CDATA[Given kullanici "automationUrl" anasayfasinda...............................passed
+And kullanici user sign in linkine tiklar...................................passed
+And kullanici user Create and account bölümüne email adresi girer...........passed
+And kullanici Create an Account butonuna basar..............................passed
+And kullanici user kisisel bilgilerini ve iletisim bilgilerini girer........passed
+And kullanici user Register butonuna basar..................................passed
+Then kullanici hesap olustugunu dogrular....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
